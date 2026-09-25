@@ -6,7 +6,7 @@ The application allows users to search for a city and view its current weather i
 
 ## 📸 Preview
 
-<img width="932" height="838" alt="Στιγμιότυπο οθόνης 2026-08-21 152402" src="https://github.com/user-attachments/assets/c9b33537-7f55-4fa6-9dd6-7eee44cb4772" />
+<img width="932" height="438" alt="Στιγμιότυπο οθόνης 2026-08-21 152402" src="https://github.com/user-attachments/assets/c9b33537-7f55-4fa6-9dd6-7eee44cb4772" />
 
 
 ## 🔐 API Key
